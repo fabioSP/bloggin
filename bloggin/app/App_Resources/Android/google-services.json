@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85279481126",
+    "firebase_url": "https://bloggin-242bd.firebaseio.com",
+    "project_id": "bloggin-242bd",
+    "storage_bucket": "bloggin-242bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85279481126:android:690233762f69ab683eb5e7",
+        "android_client_info": {
+          "package_name": "com.fabiobis.bloggin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85279481126-ito4lnua32u7tdg7sdhgnekbu94c5qg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0tu5mbMYYc5jyJXtMyVRhw9puBajc10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85279481126-ito4lnua32u7tdg7sdhgnekbu94c5qg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

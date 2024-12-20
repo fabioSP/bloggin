@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUEfOHgPuljtdL6L9cvvQUpprqU2F9IFREFwaHaF4LLYG2U1wEtsKYDH/uVGXr0912U3gcov/fafjlBzdryrTA==",
+  "success": true,
+  "projectFilePath": "D:\\sites\\svelt\\appboard\\blogginAPI\\bloggin.Models\\bloggin.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

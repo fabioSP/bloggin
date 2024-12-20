@@ -1,0 +1,42 @@
+{
+  "nativescript": {
+    "id": "com.fabiobis.bloggin",
+    "tns-ios": {
+      "version": "6.4.2"
+    },
+    "tns-android": {
+      "version": "6.4.1"
+    },
+    "templateVersion": "v2"
+  },
+  "name": "bloggin",
+  "displayName": "Bloggin",
+  "templateType": "App template",
+  "author": "Fábio Lima",
+  "version": "6.4.0",
+  "main": "app.js",
+  "description": "Aplicação Bloggin para blogueiros",
+  "license": "Apache-2.0",
+  "repository": "https://gitlab.com/fabio_sp37/bloggin.git",
+  "dependencies": {
+    "firebase": "^7.21.0",
+    "nativescript-material-icons": "^1.0.3",
+    "nativescript-modal-datetimepicker": "^1.2.2",
+    "nativescript-plugin-firebase": "^10.5.2",
+    "nativescript-theme-core": "~2.0.24",
+    "nativescript-ui-sidedrawer": "^8.0.1",
+    "rxfire": "^3.13.5",
+    "rxjs": "^6.6.3",
+    "svelte-native": "~0.8.0",
+    "tns-core-modules": "~6.4.2"
+  },
+  "devDependencies": {
+    "nativescript-dev-webpack": "~1.5.1",
+    "svelte": "~3.19.1",
+    "svelte-loader-hot": "0.1.1",
+    "svelte-native-preprocessor": "^0.1.7",
+    "typescript": "~3.7.5"
+  },
+  "gitHead": "c06800e52ee1a184ea2dffd12a6702aaa43be4e3",
+  "readme": "NativeScript Application"
+}

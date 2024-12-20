@@ -1,0 +1,9 @@
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\bin\Debug\netcoreapp3.1\bloggin.Models.deps.json
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\bin\Debug\netcoreapp3.1\bloggin.Models.dll
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\bin\Debug\netcoreapp3.1\bloggin.Models.pdb
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\obj\Debug\netcoreapp3.1\bloggin.Models.AssemblyInfoInputs.cache
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\obj\Debug\netcoreapp3.1\bloggin.Models.AssemblyInfo.cs
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\obj\Debug\netcoreapp3.1\bloggin.Models.csproj.CoreCompileInputs.cache
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\obj\Debug\netcoreapp3.1\bloggin.Models.dll
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\obj\Debug\netcoreapp3.1\bloggin.Models.pdb
+D:\sites\svelt\appboard\blogginAPI\bloggin.Models\obj\Debug\netcoreapp3.1\bloggin.Models.csprojAssemblyReference.cache
